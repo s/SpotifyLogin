@@ -17,5 +17,6 @@ let package = Package(
     ],
     targets: [
         .target(name: "SpotifyLogin")
-    ]
+    ],
+    path: "Sources/"
 )
